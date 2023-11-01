@@ -2,27 +2,29 @@
 
 
 
-> - I created this community bot with the module ``Disnake``
+> - I created this community bot with the module ``disnake``
 
 
 
-> - If you having isues please make a ``Pull request``
+> - If you having issues please make a ``Pull request``
 
 
 
-> - Checkout  ```Requirements.txt```
+> - Checkout  ```requirements.txt```
 
 
 
 **Guide** -->
-``pip install Requirements.txt``
+``pip install requirements.txt``
 
-When you installed the requirments, Set up your discord token in the ``.env`` file
+When you installed the requirements, Set up your discord token in the ``.env`` file
 
-When you did all steps Your bot is done!
-Thanks For using my project
+When you did all the steps, your bot is done!
+Thanks For using my project!
 
-Regards
+Regards,
+
+Alex
 
 
 > - Thanks for checking out my bot
