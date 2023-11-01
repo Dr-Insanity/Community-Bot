@@ -22,8 +22,7 @@ When you installed the requirments, Set up your discord token in the ``.env`` fi
 When you did all steps Your bot is done!
 Thanks For using my project
 
-Greetings Alex
-
+Regards
 
 
 > - Thanks for checking out my bot
