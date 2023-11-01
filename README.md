@@ -14,5 +14,16 @@
 
 
 
+**Guide** -->
+```pip install Requirements.txt``
+
+When you installed the requirments, Set up your discord token in the ``.env`` file
+
+When you did all steps Your bot is done!
+Thanks For using my project
+
+Greetings Alex
+
+
 
 > - Thanks for checking out my bot
