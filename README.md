@@ -1,6 +1,18 @@
-> Hello i'm Alexjeeuh
->  This is Discord Community Bot Created With the Libary Disnake
->  The bot is open for every server!
-> Put you're discord token in the (.env) file
-> Requirements Are -->> `disnake`  `python-dotenv`
-> if you having isues make a pull request
+> - Heey, My name is Alex i create discord-Bots and more!
+
+
+
+> - I created this community bot with the module ``Disnake``
+
+
+
+> - If you having isues please make a ``Pull request``
+
+
+
+> - Checkout  ```Requirements.txt```
+
+
+
+
+> - Thanks for checking out my bot
