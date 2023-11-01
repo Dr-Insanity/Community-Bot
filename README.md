@@ -15,7 +15,7 @@
 
 
 **Guide** -->
-``pip install requirements.txt``
+``pip install requirements.txt`` 
 
 When you installed the requirements, Set up your discord token in the ``.env`` file
 
