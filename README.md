@@ -1,4 +1,4 @@
-> - Hey, My name is Alex i create discord-Bots and more!
+> - Hey, My name is Alex, I create Bots and more!
 
 
 
